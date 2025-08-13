@@ -2,7 +2,7 @@
   "name": "automatic-workspace-folders-vanilla",
   "description": "Vite Vanilla TypeScript demo project for the Automatic Workspace Folders feature in Chrome DevTools.",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "~5.7.2",
-    "vite": "^6.2.0",
-    "vite-plugin-devtools-json": "^0.0.3"
+    "vite": "^7.0.0",
+    "vite-plugin-devtools-json": "^1.0.0"
   }
 }
